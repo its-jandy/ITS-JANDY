@@ -1,17 +1,11 @@
-# Beginner Frontend developer
-## Languages and Tools:
+# 💫 About Me:
+I'm Andrey -  16 y.o. Junior Frontend Developer from Russia
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass&logoColor=C76395)
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=E84E31)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=C76395)
 
-## Socials:
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=its-jandy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=its-jandy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-jandy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andreyulanov)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/andy.ulanov)
-
-## Pet-projects:
-
-[![TODO](https://img.shields.io/badge/-TODO-090909?style=for-the-badge)](https://github.com/its-jandy/todo-app)
-[![Weather](https://img.shields.io/badge/-Weather-090909?style=for-the-badge)](https://github.com/its-jandy/weather-app)
