@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Andrey -  16 y.o. Junior Frontend Developer from Russia
+I'm Andrey -  17 y.o. Junior Frontend Developer from Russia
 
 
 # 💻 Tech Stack:
